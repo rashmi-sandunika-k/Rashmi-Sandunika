@@ -1,10 +1,9 @@
-<div align="center">
 # 👋Hi there, I'm Rashmi Sandunika
 
 ### Analyzing Data & Building Insights
 I am an undergraduate in Industrial Statistics & Mathematical Finance with an interest in data analysis and data-driven decision making. Passionate about transforming data into meaningful insights through analytical thinking and problem-solving.
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Data analytics illustration" /> </div>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Data analytics illustration" /> 
 
 ## Skills
 ### Languages
