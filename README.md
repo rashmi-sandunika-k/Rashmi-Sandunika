@@ -49,7 +49,21 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 - ✔ Data Visualization & Reporting
 - ✔ Data-Driven Decision Making
 
----
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmi-Sandunika&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Sandunika&layout=compact&theme=tokyonight"/>
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmi-Sandunika&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Sandunika&layout=compact&theme=tokyonight"/>
+</p>
+
 ## 🤝 Let's Connect
 
 <p align="left">
