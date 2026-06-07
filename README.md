@@ -43,11 +43,11 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 
 ---
 ## 📌 What I do
-- ✔ Data Cleaning & Preparation
-- ✔ Exploratory Data Analysis
-- ✔ Statistical Analysis & Modeling
-- ✔ Data Visualization & Reporting
-- ✔ Data-Driven Decision Making
+-  Data Cleaning & Preparation
+-  Exploratory Data Analysis
+-  Statistical Analysis & Modeling
+-  Data Visualization & Reporting
+-  Data-Driven Decision Making
 
 ## 📊 GitHub Stats
 
@@ -56,6 +56,7 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Sandunika&layout=compact&theme=tokyonight"/>
 </p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
