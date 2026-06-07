@@ -47,4 +47,15 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 ✔ Data-Driven Decision Making
 
 ## 🤝 Let's Connect
-<p> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rashmi-sandunika-8a6802407/"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:rashmiksandunika@gmail.com"> <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rashmiksandunika@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+
