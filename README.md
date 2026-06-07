@@ -41,4 +41,4 @@ Data-Driven Decision Making
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-dark&hide_border=true&area=true" alt="GitHub contribution graph" /> </div>
 
 ## 🤝 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rashmi-sandunika-8a6802407/"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:rashmiksandunika@gmail.com"> <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+<p> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rashmi-sandunika-8a6802407/"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:rashmiksandunika@gmail.com"> <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
