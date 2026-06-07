@@ -26,12 +26,25 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 ![Correlation Analysis](https://img.shields.io/badge/Correlation%20Analysis-0891b2?style=flat-square)
 ![Probability](https://img.shields.io/badge/Probability-0891b2?style=flat-square)
 
-## What I do
-Data Cleaning & Preparation
-Exploratory Data Analysis
-Statistical Analysis & Modeling
-Data Visualization & Reporting
-Data-Driven Decision Making
+## 🚀 Featured Projects
+
+### 📈 Retail Sales Analysis Dashboard
+- Built interactive Power BI dashboard for sales insights
+- Performed trend analysis and KPI visualization
+
+### 📊 Time Series Forecasting
+- Forecasted sales using Python
+- Applied ARIMA and moving average techniques
+
+### 🧮 Statistical Data Analysis
+- Conducted hypothesis testing and regression analysis using SPSS
+
+## 📌 What I do
+✔ Data Cleaning & Preparation
+✔ Exploratory Data Analysis
+✔ Statistical Analysis & Modeling
+✔ Data Visualization & Reporting
+✔ Data-Driven Decision Making
 
 ## 🤝 Let's Connect
 <p> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rashmi-sandunika-8a6802407/"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:rashmiksandunika@gmail.com"> <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
