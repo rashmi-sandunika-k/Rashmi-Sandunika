@@ -3,6 +3,7 @@
 ### Analyzing Data & Building Insights
 I am an undergraduate in Industrial Statistics & Mathematical Finance with an interest in data analysis and data-driven decision making. Passionate about transforming data into meaningful insights through analytical thinking and problem-solving.
 
+---
 ## Skills
 ### Languages
 ![Python](https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +27,7 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 ![Correlation Analysis](https://img.shields.io/badge/Correlation%20Analysis-0891b2?style=flat-square)
 ![Probability](https://img.shields.io/badge/Probability-0891b2?style=flat-square)
 
+---
 ## 🚀 Featured Projects
 
 ### 📈 Retail Sales Analysis Dashboard
@@ -39,6 +41,7 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 ### 🧮 Statistical Data Analysis
 - Conducted hypothesis testing and regression analysis using SPSS
 
+---
 ## 📌 What I do
 - ✔ Data Cleaning & Preparation
 - ✔ Exploratory Data Analysis
@@ -46,6 +49,7 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 - ✔ Data Visualization & Reporting
 - ✔ Data-Driven Decision Making
 
+---
 ## 🤝 Let's Connect
 
 <p align="left">
