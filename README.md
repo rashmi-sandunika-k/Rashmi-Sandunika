@@ -40,11 +40,11 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 - Conducted hypothesis testing and regression analysis using SPSS
 
 ## 📌 What I do
-✔ Data Cleaning & Preparation
-✔ Exploratory Data Analysis
-✔ Statistical Analysis & Modeling
-✔ Data Visualization & Reporting
-✔ Data-Driven Decision Making
+- ✔ Data Cleaning & Preparation
+- ✔ Exploratory Data Analysis
+- ✔ Statistical Analysis & Modeling
+- ✔ Data Visualization & Reporting
+- ✔ Data-Driven Decision Making
 
 ## 🤝 Let's Connect
 
