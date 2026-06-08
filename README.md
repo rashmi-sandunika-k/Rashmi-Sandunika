@@ -58,7 +58,7 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 
 <p align="left">
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedinl&logoColor=white"/>
 </a>
 
 <a href="mailto:rashmiksandunika@gmail.com">
