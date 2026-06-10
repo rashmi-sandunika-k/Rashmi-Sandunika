@@ -21,7 +21,7 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with a str
 🔗 LinkedIn: www.linkedin.com/in/rashmi-sandunika
 
 ---
-<table border="0">
+<table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
