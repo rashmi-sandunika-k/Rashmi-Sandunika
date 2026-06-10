@@ -21,8 +21,11 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with a str
 🔗 LinkedIn: www.linkedin.com/in/rashmi-sandunika
 
 ---
+<table border="0">
+<tr>
+<td width="50%" valign="top">
 
-## Skills
+  ## Skills
 
 ### Languages
 
@@ -40,7 +43,8 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with a str
   <img src="https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge"/>
 </p>
 
----
+</td>
+<td width="50%" valign="top">
 
 ## What I Do
 
@@ -62,6 +66,9 @@ Building and evaluating models to forecast future trends.
 ### Data-Driven Decision Making
 Turning insights into actionable strategies and solutions.
 
+</td>
+</tr>
+</table>
 ---
 
 ## GitHub Stats
