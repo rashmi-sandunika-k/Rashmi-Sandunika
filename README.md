@@ -49,26 +49,21 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with a str
 ## What I Do
 
 ### Data Cleaning & Preparation
-Collecting, cleaning, and preparing data for analysis.
 
 ### Exploratory Data Analysis
-Uncovering patterns, trends, and relationships in data.
 
 ### Statistical Analysis & Modeling
-Applying statistical techniques to extract meaningful insights.
 
 ### Data Visualization & Reporting
-Creating clear and impactful dashboards and reports.
 
 ### Time Series Forecasting
-Building and evaluating models to forecast future trends.
 
 ### Data-Driven Decision Making
-Turning insights into actionable strategies and solutions.
 
 </td>
 </tr>
 </table>
+
 ---
 
 ## GitHub Stats
