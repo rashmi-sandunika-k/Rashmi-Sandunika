@@ -64,28 +64,6 @@ Turning insights into actionable strategies and solutions.
 
 ---
 
-## Featured Projects
-
-### Customer Churn Prediction & Behavioral Analysis
-- Logistic Regression
-- Hypothesis Testing
-- Customer Segmentation
-- Python, SQL, Power BI
-
-### Retail Sales Forecasting
-- Time Series Analysis
-- Moving Average
-- Exponential Smoothing
-- Forecast Visualization
-
-### Fashion Retail Analytics Dashboard
-- SQL Data Analysis
-- Power BI Dashboard
-- KPI Tracking
-- Business Insights
-
----
-
 ## GitHub Stats
 
 <p align="center">
