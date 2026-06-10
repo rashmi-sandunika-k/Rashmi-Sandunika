@@ -1,105 +1,108 @@
-# 👋 Hi there, I'm Rashmi Sandunika
+<h1 align="center">Rashmi Sandunika K.</h1>
 
-**Aspiring Data Analyst** | **Industrial Statistics & Mathematical Finance** Undergraduate
+<p align="center">
+<b>Data Analyst | Industrial Statistics & Mathematical Finance Student</b>
+</p>
 
----
-
-## 🎯 About Me
-
-I'm passionate about turning **data into meaningful, actionable insights**. As an undergraduate in **Industrial Statistics & Mathematical Finance**, I specialize in data-driven decision making and love exploring complex datasets to uncover hidden patterns and opportunities.
-
-> *"Data is the new language of business. I'm fluent in it."*
+<p align="center">
+I transform data into meaningful insights and actionable solutions.
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+I am an undergraduate in Industrial Statistics & Mathematical Finance with a strong interest in data analysis and data-driven decision-making. I enjoy exploring data, extracting insights, and building solutions that support better decisions.
 
-### 📊 Tools & Technologies
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-052B3F?style=for-the-badge&logo=ibm&logoColor=white)
+📍 Sri Lanka
 
-### 📈 Data Analysis & Statistics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+📧 rashmisandunika@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/rashmi-sandunika
 
 ---
 
-## 💼 What I Do
+## Skills
 
-<table>
-<tr>
-<td width="50%">
+### Languages
 
-### 📋 Core Competencies
-- 🧹 Data Cleaning & Preparation
-- 🔍 Exploratory Data Analysis (EDA)
-- 📊 Data Visualization & Reporting
-- 🎯 Dashboard Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
 
-</td>
-<td width="50%">
+### Tools & Technologies
 
-### 🔬 Advanced Analytics
-- 📈 Statistical Analysis & Modeling
-- ⏰ Time Series Forecasting
-- 🤖 Machine Learning Applications
-- 💡 Predictive Analytics
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 Proficiency Levels
+## What I Do
 
-| Skill | Proficiency |
-|-------|-------------|
-| Python | ![80%](https://img.shields.io/badge/80%25-blue?style=flat-square) |
-| SQL | ![85%](https://img.shields.io/badge/85%25-green?style=flat-square) |
-| Data Visualization | ![80%](https://img.shields.io/badge/80%25-orange?style=flat-square) |
-| Statistical Analysis | ![75%](https://img.shields.io/badge/75%25-yellow?style=flat-square) |
-| Excel | ![90%](https://img.shields.io/badge/90%25-brightgreen?style=flat-square) |
+### Data Cleaning & Preparation
+Collecting, cleaning, and preparing data for analysis.
 
----
+### Exploratory Data Analysis
+Uncovering patterns, trends, and relationships in data.
 
-## 🎓 Education & Certifications
+### Statistical Analysis & Modeling
+Applying statistical techniques to extract meaningful insights.
 
-- **Degree**: B.Sc. in Industrial Statistics & Mathematical Finance
-- **Focus Areas**: 
-  - Statistical Modeling
-  - Financial Data Analysis
-  - Business Intelligence
+### Data Visualization & Reporting
+Creating clear and impactful dashboards and reports.
 
----
+### Time Series Forecasting
+Building and evaluating models to forecast future trends.
 
-## 📞 Let's Connect!
-
-I'm always interested in discussing data-driven solutions, collaborating on projects, or exploring new opportunities in data analysis.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmi-sandunika-8a6802407/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashmiksandunika@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rashmi-sandunika-k)
-
-</div>
+### Data-Driven Decision Making
+Turning insights into actionable strategies and solutions.
 
 ---
 
-<div align="center">
+## Featured Projects
 
-### 📈 Open to Opportunities
-**Looking for data analysis projects, internships, and collaboration opportunities!**
+### Customer Churn Prediction & Behavioral Analysis
+- Logistic Regression
+- Hypothesis Testing
+- Customer Segmentation
+- Python, SQL, Power BI
 
-</div>
+### Retail Sales Forecasting
+- Time Series Analysis
+- Moving Average
+- Exponential Smoothing
+- Forecast Visualization
 
-### ⭐ *If you find my portfolio interesting, feel free to star this repo!*
+### Fashion Retail Analytics Dashboard
+- SQL Data Analysis
+- Power BI Dashboard
+- KPI Tracking
+- Business Insights
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark"/>
+</p>
+
+---
+
+## Let's Connect
+
+I'm always open to discussing data, projects, and opportunities.
+
+🔗 LinkedIn: www.linkedin.com/in/rashmi-sandunika
+
+📧 rashmisandunika@gmail.com
+
