@@ -1,69 +1,105 @@
-# 👋Hi there, I'm Rashmi Sandunika
+# 👋 Hi there, I'm Rashmi Sandunika
 
-### Analyzing Data & Building Insights
-I am an undergraduate in Industrial Statistics & Mathematical Finance with an interest in data analysis and data-driven decision making. Passionate about transforming data into meaningful insights through analytical thinking and problem-solving.
+**Aspiring Data Analyst** | **Industrial Statistics & Mathematical Finance** Undergraduate
 
+---
 
-## Skills
-### Languages
-![Python](https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-f97316?style=for-the-badge&logo=mysql&logoColor=white)
+## 🎯 About Me
+
+I'm passionate about turning **data into meaningful, actionable insights**. As an undergraduate in **Industrial Statistics & Mathematical Finance**, I specialize in data-driven decision making and love exploring complex datasets to uncover hidden patterns and opportunities.
+
+> *"Data is the new language of business. I'm fluent in it."*
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Tools & Technolodgies
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### 📊 Tools & Technologies
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052B3F?style=for-the-badge&logo=ibm&logoColor=white)
 
-### Statistics & Methods
-![Regression Analysis](https://img.shields.io/badge/Regression%20Analysis-0891b2?style=flat-square)
-![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-0891b2?style=flat-square)
-![Sampling Methods](https://img.shields.io/badge/Sampling%20Methods-0891b2?style=flat-square)
-![Statistical Inference](https://img.shields.io/badge/Statistical%20Inference-0891b2?style=flat-square)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-0891b2?style=flat-square)
-![Non Parametric Methods](https://img.shields.io/badge/Non%20Parametric%20Methods-0891b2?style=flat-square)
-![ANOVA](https://img.shields.io/badge/ANOVA-0891b2?style=flat-square)
-![Correlation Analysis](https://img.shields.io/badge/Correlation%20Analysis-0891b2?style=flat-square)
-![Probability](https://img.shields.io/badge/Probability-0891b2?style=flat-square)
+### 📈 Data Analysis & Statistics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 🚀 Featured Projects
+---
 
-### 📈 Retail Sales Analysis Dashboard
-- Built interactive Power BI dashboard for sales insights
-- Performed trend analysis and KPI visualization
+## 💼 What I Do
 
-### 📊 Time Series Forecasting
-- Forecasted sales using Python
-- Applied ARIMA and moving average techniques
+<table>
+<tr>
+<td width="50%">
 
-### 🧮 Statistical Data Analysis
-- Conducted hypothesis testing and regression analysis using SPSS
+### 📋 Core Competencies
+- 🧹 Data Cleaning & Preparation
+- 🔍 Exploratory Data Analysis (EDA)
+- 📊 Data Visualization & Reporting
+- 🎯 Dashboard Development
 
-## 📌 What I do
--  Data Cleaning & Preparation
--  Exploratory Data Analysis
--  Statistical Analysis & Modeling
--  Data Visualization & Reporting
--  Data-Driven Decision Making
+</td>
+<td width="50%">
 
-## 📊 GitHub Stats
+### 🔬 Advanced Analytics
+- 📈 Statistical Analysis & Modeling
+- ⏰ Time Series Forecasting
+- 🤖 Machine Learning Applications
+- 💡 Predictive Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmi-Sandunika&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Sandunika&layout=compact&theme=tokyonight"/>
-</p>
+</td>
+</tr>
+</table>
 
-## 🤝 Let's Connect
+---
 
-<p align="left">
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedinl&logoColor=white"/>
-</a>
+## 📊 Proficiency Levels
 
-<a href="mailto:rashmiksandunika@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+| Skill | Proficiency |
+|-------|-------------|
+| Python | ![80%](https://img.shields.io/badge/80%25-blue?style=flat-square) |
+| SQL | ![85%](https://img.shields.io/badge/85%25-green?style=flat-square) |
+| Data Visualization | ![80%](https://img.shields.io/badge/80%25-orange?style=flat-square) |
+| Statistical Analysis | ![75%](https://img.shields.io/badge/75%25-yellow?style=flat-square) |
+| Excel | ![90%](https://img.shields.io/badge/90%25-brightgreen?style=flat-square) |
 
+---
 
+## 🎓 Education & Certifications
+
+- **Degree**: B.Sc. in Industrial Statistics & Mathematical Finance
+- **Focus Areas**: 
+  - Statistical Modeling
+  - Financial Data Analysis
+  - Business Intelligence
+
+---
+
+## 📞 Let's Connect!
+
+I'm always interested in discussing data-driven solutions, collaborating on projects, or exploring new opportunities in data analysis.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmi-sandunika-8a6802407/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashmiksandunika@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rashmi-sandunika-k)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Open to Opportunities
+**Looking for data analysis projects, internships, and collaboration opportunities!**
+
+</div>
+
+### ⭐ *If you find my portfolio interesting, feel free to star this repo!*
